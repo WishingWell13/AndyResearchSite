@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Andy Smithwick / Student Researcher"
 title_separator          : "-"
 name                     : &name "Andy Smithwick"
-description              : &description "I'm an undergraduate student researcher at UC San Diego"
+description              : &description "I'm an undergraduate student researcher at UC San Diego using Natural Lanuage Processing for social good."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/research" # the subpath of your site, e.g. "/blog"
 repository               : "WishingWell13/WishingWell13.github.io/AndyResearchSite"
@@ -22,13 +22,13 @@ repository               : "WishingWell13/WishingWell13.github.io/AndyResearchSi
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Andrew Smithwick"
+  pronouns         : "He/him" # example: "she/her" 
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "La Jolla, CA"
+  employer         : "University of California San Diego"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "andy.smithwick@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "WishingWell13"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
